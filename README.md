@@ -8,5 +8,7 @@ Adding introduction
 Adding a purpose 
 
 ## Deployment
+Adding deployment
 
 ## How to Contribute
+Some text
